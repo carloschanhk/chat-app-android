@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--  Login  -->
+    <string name="login_username">Username: </string>
+    <string name="login_hint">Enter you username…</string>
+    <string name="login_password">Password: </string>
+    <string name="login_button_text">Login</string>
+    <string name="login_empty_input_error">Field(s) should not be empty</string>
+
+    <!--  Sign up  -->
+    <string name="signup_text">Sign Up</string>
+
+    <!--  Error  -->
+    <string name="generic_error_message">Something went wrong. Please try again.</string>
+    <string name="generic_connection_error">Unable to connect to server</string>
+
+</resources>
